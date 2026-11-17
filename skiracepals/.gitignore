@@ -1,8 +1,0 @@
-node_modules
-dist
-.env
-*.log
-tmp-*.js
-.mariadb
-.DS_Store
-/bin/
