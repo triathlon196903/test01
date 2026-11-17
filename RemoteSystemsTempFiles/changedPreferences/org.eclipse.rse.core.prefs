@@ -1,0 +1,5 @@
+# 
+#Tue Nov 17 16:42:33 CET 2026
+org.eclipse.rse.systemtype.windows.systemType.enabled=false
+org.eclipse.rse.systemtype.unix.systemType.enabled=false
+org.eclipse.rse.systemtype.linux.systemType.enabled=false
